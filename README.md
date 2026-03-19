@@ -61,23 +61,19 @@ Calculation:
 
 a.   KVL:
 
-![WhatsApp Image 2026-03-15 at 16 09 55](https://github.com/user-attachments/assets/473c0cfe-bbc1-4180-898e-60a3fc76ce38)
-
-
-
-![WhatsApp Image 2026-03-15 at 16 11 36](https://github.com/user-attachments/assets/d6e1318e-8f4e-4a17-bd4d-ccea7e1b6f28)
+![WhatsApp Image 2026-03-15 at 16 09 55](https://github.com/user-attachments/assets/21966d2b-f8ce-461c-b918-c041b2451eaa)
 
 
 b.  KCL:
 
 
-![WhatsApp Image 2026-03-15 at 16 10 26](https://github.com/user-attachments/assets/b16a6936-39ee-46e0-b185-fa4ee8520c63)
+
+![WhatsApp Image 2026-03-15 at 16 10 26](https://github.com/user-attachments/assets/229aae6e-4d5b-40d5-afa5-854f59d47fc3)
 
 
+CALCULATION:
 
-![WhatsApp Image 2026-03-15 at 16 11 36 (1)](https://github.com/user-attachments/assets/48540f69-73ca-49b9-ace8-ce887999ee02)
-
-
+![WhatsApp Image 2026-03-19 at 20 18 53](https://github.com/user-attachments/assets/b8c60e31-1868-4a23-a278-8f0ef2f74515)
 
 
 

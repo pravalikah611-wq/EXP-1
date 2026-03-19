@@ -71,7 +71,7 @@ b.  KCL:
 ![WhatsApp Image 2026-03-15 at 16 10 26](https://github.com/user-attachments/assets/229aae6e-4d5b-40d5-afa5-854f59d47fc3)
 
 
-CALCULATION:
+TABULATION:
 
 ![WhatsApp Image 2026-03-19 at 20 18 53](https://github.com/user-attachments/assets/b8c60e31-1868-4a23-a278-8f0ef2f74515)
 
